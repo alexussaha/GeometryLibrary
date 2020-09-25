@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary", "Geometry
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQL_Products_Category", "SQL_Products_Category\SQL_Products_Category.sqlproj", "{637C1A9F-F0BF-4D97-8146-5F49C9A416A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B707FDFF-1868-4662-9F83-AD319E74497A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{637C1A9F-F0BF-4D97-8146-5F49C9A416A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{637C1A9F-F0BF-4D97-8146-5F49C9A416A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{637C1A9F-F0BF-4D97-8146-5F49C9A416A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B707FDFF-1868-4662-9F83-AD319E74497A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B707FDFF-1868-4662-9F83-AD319E74497A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B707FDFF-1868-4662-9F83-AD319E74497A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B707FDFF-1868-4662-9F83-AD319E74497A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
